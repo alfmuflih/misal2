@@ -1,3 +1,7 @@
 public static void main (String args[]){
-  main(){}
+  main(){
+  }
+  int add(int a,b){
+    return a+b;
+  }
 }
